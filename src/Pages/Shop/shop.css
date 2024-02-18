@@ -1,0 +1,7 @@
+.shop-bg{
+  background-image: url("../../assets/shop-bg.png");
+  width: 100%;
+  height: 450px;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
