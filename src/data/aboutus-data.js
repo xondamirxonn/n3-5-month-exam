@@ -9,17 +9,17 @@ export const aboutUsData = [
     title: "Spicy",
   },
   {
-    id: 1,
+    id: 2,
     img: feed,
     title: "Nuts & Feesd",
   },
   {
-    id: 1,
+    id: 3,
     img: fruit,
     title: "Fruits",
   },
   {
-    id: 1,
+    id: 4,
     img: vegetable,
     title: "Vegetable",
   },
