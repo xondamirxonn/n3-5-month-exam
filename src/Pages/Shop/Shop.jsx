@@ -7,7 +7,7 @@ import Shop_bg from '../../assets/shop-bg.png'
 export const Shop = () => {
   return (
     <div>
-      <Showcase img={Shop_bg} title={"About Us"} />
+      <Showcase img={Shop_bg} title={"Shop"} />
 
       <ShopData />
       <Subscribe />

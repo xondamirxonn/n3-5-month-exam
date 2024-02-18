@@ -83,7 +83,7 @@ export const Home = () => {
               "Simply dummy text of the printing and typesetting industry. Lorem Ipsum"
             }
           />
-          <Button variant="primary" className="text-white my-10 flex items-end gap-2 justify-center">
+          <Button onClick={LoadMore} variant="primary" className="text-white my-10 flex items-end gap-2 justify-center">
             Shop Now <Rigth />
           </Button>
         </div>
